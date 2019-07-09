@@ -1,0 +1,36 @@
+/* 
+*{
+  border: solid black 1px;
+} */
+
+body {
+  /* min-height: 75rem; */
+  padding-top: 4.5rem;
+}
+
+#menu{
+  margin: auto;
+}
+
+.navbar{
+  background: red;
+}
+
+#titre_portfolio{
+text-align: center;
+}
+
+.titre_accordion{
+  text-align: center;
+  background: gainsboro;
+}
+
+#boite{
+  width: 400px;
+  height:92%;
+  background-color: coral;
+  position: absolute;
+  z-index: 1;
+  margin-top: 3%;
+  margin-left:-1000px;
+}
